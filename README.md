@@ -1,4 +1,4 @@
-# V2ray-Offline-Installer
+# V2ray Offline Installer
 An unofficial v2ray installer for magisk module
 Based on: https://github.com/Magisk-Modules-Repo/v2ray
 
